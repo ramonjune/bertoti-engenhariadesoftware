@@ -11,3 +11,15 @@ The opening section is an introduction to a book on best practices, which discus
 <br>
 
 The second section introduces reflections on the development of softwares based on sustainability, and cites three principles for "Programming Over Time": "Time and Change", "Scale and Growth" and "Trade-offs and Costs".
+
+<br>
+
+## 🤝 Examples and explanations of trade-offs
+
+<br>
+
+- Storage against speed - storing compressed data to save memory against using caching to avoid recalculations.
+
+- Functionality against simplicity - increasing complexity for advanced tools against making it more intuitive for more people.
+
+- Security against usability - having high protection for important data against having convenience for easier access.
