@@ -36,3 +36,12 @@ The second section introduces reflections on the development of softwares based 
 <img src="images/drive/drive-JUnit.jpg" alt="Drive JUnit test" width="450" height="350">
 
 [code here](code/drive/)
+
+<br>
+
+- Human resources
+
+![Human resources diagram](images/human-resources/human-resources-diagram.jpg)
+<img src="images/human-resources/human-resources-JUnit.jpg" alt="Human resources JUnit test" width="450" height="350">
+
+[code here](code/human-resources/)
